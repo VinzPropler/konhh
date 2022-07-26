@@ -1,1 +1,1 @@
-# konhh
+Python2 Pkon.py
